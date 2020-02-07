@@ -5,3 +5,4 @@ console.log("Hmm")
 console.console.log("I would be a logger.");
 console.log("I would be a logger.")
 console.log("WTF.")
+console.log("I would be a logger.")
