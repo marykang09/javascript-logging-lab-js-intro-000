@@ -9,3 +9,5 @@ console.log("I would be a logger.")
 console.log("I would be a logger.");;
 console.warn("HELP!!!!")
 console.log("I would be a logger.")
+console.warn("This is one.
+")
