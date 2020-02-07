@@ -15,3 +15,4 @@ console.log("Logging.
 ");
 console.log("What.");
 console.log("What.")
+console.log("HELP!")
